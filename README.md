@@ -1,3 +1,5 @@
+# IMPORTANT NOTICE: this chart development is discontinued. Please read [#211](https://github.com/Pyrrha/calcom-helm/issues/211)
+
 # Calcom Helm
 
 [Cal.com](https://cal.com/fr) is a powerful tool for booking meetings. It offers integrations that allow you to store contact information into a CRM as events booked in your calendar. The user-friendly interface helps your leads and customers easily connect with you.
